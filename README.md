@@ -2,14 +2,9 @@
 
 You could see my username, you could see my pfp.
 
-You might wonder why is my pfp like that.
-
-The answer? I just don't want to risk infringe copyright and wanted to use my own art,
-tbf this one is bad and I'm planning to change it in the future.
-
 ### About Me
 
-I'm absolutely not going to leak my personal detail. I'm not the kind of guy
+I'm absolutely not going to leak my personal detail. I'm not the kind of person
 to be comfortable with people snooping around my social media profiles.
 
 But, I'm a developer, still in high school, familiar with the syntax and quirk of c and c++,
