@@ -1,19 +1,31 @@
-## Hi There.
+# Hiya!
 
-You could see my username, you could see my pfp.
+My name is Ezra, I live in Jakarta, Indonesia.
 
-### About Me
+## About Me
 
-I'm absolutely not going to leak my personal detail. I'm not the kind of person
-to be comfortable with people snooping around my social media profiles.
+I'm quiet proficient in English even though it's not my first language, and
+yes, gua memang bisa ngomong Bahasa Indonesia.
 
-But, I'm a developer, still in high school, familiar with the syntax and quirk of c and c++,
-know python well enough, kinda know js, rust.
+Regarding personal details, I beg you not to snoop around too much. But in case you do search my name on google...<br>
+What can I do about it anyway? You'll probably find my photo (as an 11 yo primary school student) and not much else.<br>
+Although... I do have a secret alt identity where I'm not *enclosetado*, if you will.
 
-I also am familiar with git, linux, vim, and... nah that's it.
+But, I'm a developer (if you can call me that), currently in high school.
 
-I'm just going to drop some stats below, not going to bother adding more embed than that
-since I just don't like too much *✨**fancy**✨* embeds...
+I'm familiar with the quirks and syntax of c and c++, know python decently well, sort-of know js and rust, annoyed with java, always
+forgetting html tags, css selectors, want to learn haskell but dammit, it's hard, etc.
 
-![stats](https://github-readme-stats.vercel.app/api?username=AntimatterReactor&theme=gruvbox&show_icons=true&count_private=true)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntimatterReactor&theme=gruvbox&layout=compact&langs_count=6)
+Anyways, I'm currently making a website, where? Guess.
+
+I am also familiar with linux (native, wsl, msys, etc), git (although I always have to open the man page every time),
+vim (even though I always forgot the more specific key combos), and emacs (even though I only use doom emacs).
+
+And lastly, yes I use arch linux, no it's not my daily driver.
+
+## Some stats
+
+Here's some stats: (yes I've been inactive for quiet a long time)
+
+![stats](https://github-readme-stats.vercel.app/api?username=AntimatterReactor&theme=aura_dark&show_icons=true&count_private=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntimatterReactor&theme=aura_dark&layout=compact&langs_count=6)
