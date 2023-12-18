@@ -19,9 +19,9 @@ forgetting html tags, css selectors, want to learn haskell but dammit, it's hard
 Anyways, I'm currently making a website, where? Guess.
 
 I am also familiar with linux (native, wsl, msys, etc), git (although I always have to open the man page every time),
-vim (even though I always forgot the more specific key combos), and emacs (even though I only use doom emacs).
+vim (even though I never remember the more specific key combos), and emacs (even though I could only barely use doom emacs).
 
-And lastly, yes I use arch linux, no it's not my daily driver.
+And lastly, yes I use arch linux (endeavouros), and yes it's my daily driver.
 
 ## Some stats
 
