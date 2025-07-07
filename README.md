@@ -1,18 +1,16 @@
 ## About Me
 
-I'm quiet proficient in English even though it's not my first language, and yes, gua memang bisa ngomong Bahasa Indonesia.\
-I'm a developer (if you can call me that), currently in high school.
+Indonesian 🇮🇩. [C2 English User] (https://cert.efset.org/oZpzeD)
 
-I'm familiar with the quirks and syntax of c and c++, know python decently well, sort-of know js and rust, annoyed with java, always
-forgetting html tags, css selectors, want to learn haskell but dammit, it's hard, etc. I am also familiar with linux (native, wsl, msys, etc),
-git (although I always have to open the man page every time), vim (even though I never remember the more specific key combos),
-and emacs (even though I could only barely use doom emacs).
+Familiar with C, C++, Rust. Know HTML5, CSS3, and JavaScript, and Bash. Can somewhat read Go and Java.
 
-And lastly, yes I use arch linux (endeavouros), and yes it's my daily driver.
+Also familiar with Linux, mostly GNU/Linux in many, many different forms (incl. WSL and MSYS2). Tried Void Linux and BSD but still unfamiliar.
 
-## Some stats
+Understand Git, the basics of Vim, and have used modded Emacs.
 
-Here's some stats: (yes I've been inactive for quiet a long time)
+Prefers Linux for software development. Yes, I use Arch Linux. Although I like Fedora more on account of less breaks from updates.
+
+Here's some stats that I'm not planning on fixing anytime soon:
 
 ![stats](https://github-readme-stats.vercel.app/api?username=AntimatterReactor&theme=aura_dark&show_icons=true&count_private=true)
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntimatterReactor&theme=aura_dark&layout=compact&langs_count=6)
