@@ -14,3 +14,5 @@ Here's some stats that I'm not planning on fixing anytime soon:
 
 ![stats](https://github-readme-stats.vercel.app/api?username=AntimatterReactor&theme=aura_dark&show_icons=true&count_private=true)
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntimatterReactor&theme=aura_dark&layout=compact&langs_count=6)
+
+As a final note, feel free to contact me through email if you wish to discuss Programming, Chemistry, Math, etc.
